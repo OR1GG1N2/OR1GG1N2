@@ -5,7 +5,7 @@
   **Frontend Developer · Streamer · Kyiv, Ukraine**
 
   <!-- Social / profile -->
-  [![Twitch](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white)](https://twitch.tv/Or1GG1n)
+  [![Twitch](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white)](https://twitch.tv/Or1GGin)
 
   <!-- Tech stack -->
   ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
